@@ -30,7 +30,7 @@ class Navbar extends React.Component {
                     <p className="text-divider"><span>OR</span></p>
                         <i className="fab fa-facebook-f " style={{fontSize:'22px', backgroundColor:' #3372d1',color:'white', padding: '1% 4%'}}>
                             &nbsp; <button type="button" className="btn btn-info" style={{backgroundColor:'#3372d1'}}>Connect with facebook</button></i>
-                    <a href="" className="btn btn-block btn-google"/> <i className='fab fa-google-plus ' style={{fontSize:'19px', padding:' 1% 4%', backgroundColor:'rgb(185, 67, 67)',color:'white'}}>
+                    	<a href="" className="btn btn-block btn-google"/> <i className='fab fa-google-plus ' style={{fontSize:'19px', padding:' 1% 4%', backgroundColor:'rgb(185, 67, 67)',color:'white'}}>
                             &nbsp; <button type="button" className="btn btn-danger " style={{backgroundColor:'rgb(185, 67, 67)'}}>Connect with Google</button></i>
                     </p>
 			    <div className="form-group">
